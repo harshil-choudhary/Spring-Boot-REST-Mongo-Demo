@@ -7,3 +7,7 @@ docker-compose up -d
 
 ## Mongo Express
 Go to http://localhost:8081/
+
+## Database creation
+Create harshiltest using Mongo Express
+
